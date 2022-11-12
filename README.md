@@ -1,5 +1,7 @@
 # Introduction
 
+## 🏢 Company
+* tan.D (2022.09~)
 ----------
 ## 🔥 Activity
 * 인프런 데이터 분석 SQL Fundamentals 수강 중(2022.07~)
