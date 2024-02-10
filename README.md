@@ -15,7 +15,7 @@
 * SQL 스터디(2022.06~2022.07)
 -------------
 ## 🔍 Skills
-* Python
+* Python(pandas, numpy, seaborn, matplotlib, sklearn, scipy, tensorflow, pytorch)
 * SQL(MySql, BigQuery, SqLite)
 * R
 * PowerPoint
