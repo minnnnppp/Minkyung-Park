@@ -1,7 +1,7 @@
 # Introduction
 
 ## 🏢 Company
-* tan.D (2022.09~2023.10)
+* tan.D (2022.09~2023.09)
 ----------
 ## 🔥 Activity
 * 데이터리안 SQL 데이터 분석 캠프 입문반, 실전반(2023.9~2023.11)
@@ -16,7 +16,7 @@
 -------------
 ## 🔍 Skills
 * Python
-* SQL
+* SQL(MySql, BigQuery, SqLite)
 * R
 * PowerPoint
 * Excel
