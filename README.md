@@ -20,5 +20,5 @@
 * R
 * Github
 
-## SNS
+## 🖥️ SNS
 * velog: https://velog.io/@minnnnky/posts
