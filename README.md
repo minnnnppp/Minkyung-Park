@@ -18,6 +18,7 @@
 * Python(pandas, numpy, seaborn, matplotlib, sklearn, scipy, tensorflow, pytorch)
 * SQL(MySql, BigQuery, SqLite)
 * R
-* PowerPoint
-* Excel
+* Github
 
+## SNS
+* velog: https://velog.io/@minnnnky/posts
